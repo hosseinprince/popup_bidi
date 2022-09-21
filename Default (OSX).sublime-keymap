@@ -1,0 +1,5 @@
+[
+	{
+		""keys": ["alt+z"], "command": "popup_bidi"
+	}
+]
