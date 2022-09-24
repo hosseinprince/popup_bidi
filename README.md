@@ -2,7 +2,8 @@ Bidirectional popup support for Sublime Text 3
 ===================
 
 
-![Uploading Screenshot.png…]()
+![Screenshot](https://user-images.githubusercontent.com/12623693/192081504-9a56a676-033a-4364-bb10-4d30c47c1f3c.png)
+
 
 
 Thanks
